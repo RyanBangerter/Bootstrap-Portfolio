@@ -1,0 +1,77 @@
+@media (min-width: 980px) {
+  header.masthead {
+    padding-top: calc(6rem + 106px)!important;
+    padding-bottom: 6rem!important;
+    h1 {
+      font-size: 4.75em!important;
+      line-height: 4rem!important;
+    }
+    h2 {
+      font-size: 1.75em!important;
+    }
+
+  }
+}
+p.lead{
+	text-align: center!important;
+}
+#contact{
+	background-color: #2f4f4f!important;
+}
+.form-control:focus{
+	color: white!important;
+	background-color: #2f4f4f!important;
+}
+section{
+	padding: 10rem 0!important;
+}
+.bg-primary{
+	background-color: #2f4f4f!important;
+}
+.bg-secondary{
+	background-color: black!important;
+}
+hr.star-light{
+	border-color: white!important;
+}
+hr.star-light:after{
+	color: white!important;
+	background-color: #2f4f4f!important;
+}
+.footer{
+	background-color: grey!important;
+
+}
+.copyright{
+	background-color: black!important;
+}
+button.bg-primary:hover{
+	background-color: grey!important;
+}
+.btn-primary{
+	background-color: #18bc9c!important;
+	border-color: #18bc9c!important;
+	color: white!important;
+}
+.btn-primary:hover{
+	background-color: grey!important;
+	border-color: grey!important;
+}
+.portfolio{
+	background-color: #2f4f4f!important;
+}
+hr.star-dark{
+	border-color: #2f4f4f!important;
+}
+.star-dark:after{
+	color: #2f4f4f!important;
+	background-color: white!important;
+}
+.text-secondary{
+	color: white!important;
+
+}
+@media only screen and (max-width: 500px){
+#about{
+	background-color: #008B8B!important;
+}
